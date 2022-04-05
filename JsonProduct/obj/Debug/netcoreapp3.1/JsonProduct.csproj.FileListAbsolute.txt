@@ -1,0 +1,16 @@
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.exe
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.deps.json
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.runtimeconfig.json
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.runtimeconfig.dev.json
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.dll
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\JsonProduct.pdb
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.csproj.AssemblyReference.cache
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.AssemblyInfoInputs.cache
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.AssemblyInfo.cs
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.csproj.CoreCompileInputs.cache
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.csproj.CopyComplete
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.dll
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.pdb
+C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\obj\Debug\netcoreapp3.1\JsonProduct.genruntimeconfig.cache
