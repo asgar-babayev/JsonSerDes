@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BNa3Qtnl5riFK2UTPaeXoDGBZG3jPjR0iaehQQykdVTng/Hho0ZXOTwQ3/trqpcIV2NaXbSMSlzgtnKdUQ7S3A==",
+  "dgSpecHash": "OmI+WVv5xkZnLWCvlK7yXpSv/CeqWpokOwBYCD/us8ckFmFzaXXNCSBq8Ft8EC8py4K8WZ9Iv12/M3j+NUnkew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\JsonProduct\\JsonProduct\\JsonProduct.csproj",
+  "projectFilePath": "C:\\Users\\tu7609td3\\Desktop\\JsonSerDes\\JsonProduct\\JsonProduct.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\asger\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\tu7609td3\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

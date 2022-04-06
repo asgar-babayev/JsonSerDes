@@ -48,14 +48,14 @@ namespace JsonProduct
 
             #region Json Deserialize
             //string result;
-            //using (StreamReader sr = new StreamReader(@"C:\Users\asger\Desktop\Tasks\JsonProduct\JsonProduct\JsonFiles\Product.json"))
+            //using (StreamReader sr = new StreamReader(@"C:\Users\tu7609td3\Desktop\JsonSerDes\JsonProduct\JsonFiles\json1 (1).json"))
             //{
             //    result = sr.ReadToEnd();
             //}
             //Order order = JsonConvert.DeserializeObject<Order>(result);
             //foreach (var item in order.OrderItems)
             //{
-            //    Console.WriteLine($@"Id: {item.Product.Id} | Name: {item.Product.Name} | Count: {item.Count}");
+            //    Console.WriteLine($@"Id: {item.Product.Id} | Name: {item.Product.Name} | Count: {item.Count} | Total Price: {item.TotalPrice}");
             //}
             #endregion
         }
